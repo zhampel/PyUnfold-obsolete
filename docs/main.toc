@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}D'Agostini Unfolding}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Method}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Regularization}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Unfolding Uncertainties}{6}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}$V^{Data}$}{6}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}$V^{MC}$}{7}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Updated Unfolding Algorithm}{8}{subsubsection.2.3.3}
+\contentsline {subsection}{\numberline {2.4}Expansion of Components of $V$}{8}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Some useful formulae}{8}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Expansion of $V^{Data}$}{9}{subsubsection.2.4.2}
+\contentsline {subsubsection}{\numberline {2.4.3}Expansion of $V^{MC}$}{10}{subsubsection.2.4.3}
+\contentsline {section}{\numberline {3}Python Implementation}{12}{section.3}
+\contentsline {subsection}{\numberline {3.1}PyUnfold: Unfolding Made Simple - But Not Simpler}{12}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}ROOT}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Configuration File}{13}{subsection.3.3}
